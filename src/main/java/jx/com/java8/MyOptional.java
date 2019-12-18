@@ -4,7 +4,7 @@ import java.util.Optional;
 
 public class MyOptional {
     public static void main(String[] args) {
-
+        System.out.println();
     }
 
 }
